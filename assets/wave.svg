@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" fill="none">
+  <path d="M0 14 C 60 2, 120 2, 180 14 S 300 26, 360 14 S 480 2, 540 14 S 660 26, 720 14 S 840 2, 900 14 S 1020 26, 1080 14 S 1140 6, 1200 14" stroke="#F0A519" stroke-width="1.5" fill="none" opacity="0.8">
+    <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 14 C 80 24, 160 24, 240 14 S 400 4, 480 14 S 640 24, 720 14 S 880 4, 960 14 S 1120 24, 1200 14" stroke="#7A2231" stroke-width="1.5" fill="none" opacity="0.7"/>
+</svg>
