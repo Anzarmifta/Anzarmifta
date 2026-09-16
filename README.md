@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anzarmifta/Anzarmifta/main/assets/banner.svg" width="100%" alt="Anzar Mifta" />
+<img src="https://raw.githubusercontent.com/Anzarmifta/Anzarmifta/main/assets/banner.svg" width="100%" alt="Anzarmf" />
 
 <br>
 
