@@ -77,6 +77,33 @@
 </div>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🛒 <a href="https://github.com/Anzarmifta/pendataan-belanja">Pendataan Belanja</a></h3>
+<p align="center"><em>AI expense tracking bot untuk Telegram</em></p>
+<p align="center">Foto struk → Gemini OCR → konfirmasi → Google Sheets.</p>
+<div align="center">
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+
+</div>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">🤖 <a href="https://github.com/Anzarmifta/Anzarmifta">Automation Fleet</a></h3>
+<p align="center"><em>Fleet AI agent yang jalan 24/7</em></p>
+<p align="center">Multi-agent orchestration untuk operasi tim & konten.</p>
+<div align="center">
+
+![AI](https://img.shields.io/badge/AI_Agents-FF6B35?style=flat-square&logo=openai&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-0052CC?style=flat-square&logo=zapier&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</div>
+</td>
+</tr>
 </table>
 
 <details>
